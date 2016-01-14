@@ -14,7 +14,7 @@
 
 4. Stwórz jeden element div. Wpisz do niego jakiś tekst. Nadaj mu klasę oraz identyfikator. Następnie w CSS ostyluj go w następujący sposób.
 
- ![Specyfikacja selektorów](images/ex4.jpg)
+ ![Specyfikacja selektorów](images/ex2.jpg)
 
  Sprawdź, które tło zostanie przypisane elementowi div. 
 
