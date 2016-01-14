@@ -1,4 +1,4 @@
-# CSS – Stylowanie tekstu
+# CSS – Kolor i tło
 
 1. Stwórz element div, a w nim paragraf wypełniony tekstem. Ustaw dowolne tło dla elementu div i nadaj mu przezroczystość 0.4 za pomocą rgba (pamiętaj o dodaniu fallback)
 
