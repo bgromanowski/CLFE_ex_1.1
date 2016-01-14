@@ -1,13 +1,15 @@
 # CSS – Zaawansowany atrybut border
 
+**Uwaga: nie używaj generatorów do tych zadań**
+
 ##1. Border radius
 W pliku html stwórz div (wymiary możesz ustawić tak żeby było Ci wygodnie robić poszczególne ćwiczenia)i z jakimś przykładowym tekstem. Ostyluj element div tak, by wyglądał: 
 * elipsa
 * koło
 * limonka :smiley:
-![limonka](images/limonka.jpg)
 
-** Uwaga: nie używaj generatorów do tego zadania**
+	![limonka](images/limonka.jpg)
+
 
 #2. Border shadow.
 W pliku html stwórz div (wymiary możesz ustawić tak żeby było Ci wygodnie robić poszczególne ćwiczenia) i z jakimś przykładowym tekstem. Ostyluj div tak, by wyglądał w następujący sposób:
