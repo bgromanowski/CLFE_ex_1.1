@@ -11,7 +11,7 @@ Wewnątrz wklej div-y z poprzedniego zadania. Zobacz jak tym razem ustawione zos
 
 4. Menu z zadania 3 o listach ustaw w taki sam sposób za pomocą float.
 
-5. Ustaw obrazek w taki sposób jak pokazano niżej.
+5. Ustaw obrazek w taki sposób jak pokazano niżej. Obrazek znajdziesz w katalogu images. Nazwa pliku jez.jpg
 
 	![pozycjonowanie 2](images/pos2.jpg)
 
