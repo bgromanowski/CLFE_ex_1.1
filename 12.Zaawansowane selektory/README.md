@@ -8,7 +8,7 @@ W pliku html stwórz div o wymiarach 400 na 300 pixeli i z jakimś przykładowym
 Zobacz jak działają te reguły. Co się stanie jeżeli zamienisz je miejscami? Czy potrafisz wytłumaczyć dlaczego zachowanie selektorów zmienia się w zależności od ich kolejności?
 
 ##2. Selektory dla linków.
-W pliku html stwórz kilkanaście linków do innych stron www. Następnie:
+W pliku html stwórz kilkanaście linków do innych stron internetowych. Następnie:
 * Stwórz regułę CSS która spowoduje że linki będą wyświetlać się jako guziki o szerokości wypisanego w nich tekstu i zaokrąglonych krawędziach. Guziki mają mieć kolor żółty.
 * Stwórz regułę CSS która sprawi że po najechaniu na link myszką guzik ma mieć kolor zielony.
 * Po kliknięciu takiego guzika ma on zmieniać swój kolor na szary (jako już odwiedzony link).
@@ -25,4 +25,4 @@ Zadania z selektorów są przygotowane w serwisie [jsfiddle](https://jsfiddle.ne
 * Każdy 3,5,7,… element div od końca należący do diva o klasie from_end ma mieć kolor tła nastawiony na pomarańczowy.
 
 ##*. Zadanie dodatkowe.
-Jeżeli nadal masz czas poćwicz selektory korzystając z tej strony [flukeout.github.io](http://flukeout.github.io/ )  -lekcje od 14 do końca.
+Jeżeli nadal masz czas poćwicz selektory korzystając z tej strony [flukeout.github.io](http://flukeout.github.io/ ) - lekcje od 14 do końca.
