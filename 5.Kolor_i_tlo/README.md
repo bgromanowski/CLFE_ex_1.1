@@ -7,7 +7,7 @@
 3. Za pomocą generatora [gradient-generator](http://www.cssmatic.com/gradient-generator) stwórz gradient dla  elementu div. 
 Obrazek znajdziesz w katalogu images -> gradient.png, otwórz go w Photoshopie lub innym programie, z którego pipetą możesz pobrać kolor np. [pixlr - online photo editor](https://pixlr.com/editor/)
 
-![Przykładowy gradient](images/gradient.jpg)
+	![Przykładowy gradient](images/gradient.jpg)
 
 4. Stwórz element div, następnie za pomocą CSS ustaw dla niego tło w postaci obrazka.
 Obrazki można pobrać np. ze strony:[sitebuilderreport](http://www.sitebuilderreport.com/stock-up) 
