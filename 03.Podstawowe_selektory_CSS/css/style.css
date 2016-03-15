@@ -1,0 +1,39 @@
+/*
+div > p + p{
+  background-color: red;
+}
+*/
+
+/*CZESC !*/
+/*Wszystkich paragrafów na czerwony*/
+p {
+  background-color: red;
+}
+/*Paragrafu o id="inny" na niebieski*/
+#inny {
+  background: blue;
+}
+/*Paragrafu o id="inny" na niebieski*/
+.blog {
+  background-color: rgb(252, 221, 220);
+}
+/*Paragrafu o id="inny" na niebieski*/
+.blog p{
+  background-color: pink;
+}
+/*Paragrafy będące bezpośrednimi dziećmi diva o id "rodzic" na zielony*/
+div#rodzic > p {
+  background-color: green;
+}
+/*Paragrafy będące potomkami diva o id "rodzic" na niebieski*/
+div#rodzic p {
+  background-color: blue;
+}
+/*Paragrafy znajdujące się bezpośrednio po divie o id "other" na brązowy*/
+#other + p {
+  background-color: brown;
+}
+/*Paragrafy znajdujące się po divie o id "other" na fioletowy*/
+#other ~ p {
+  background-color: violet;
+}

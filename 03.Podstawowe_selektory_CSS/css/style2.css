@@ -1,0 +1,17 @@
+/*CZESC 2*/
+/*Wszystkim nagłówkom (od h1 do h5) na zielony
+(połącz selektory żeby zrobić to jedną regułą CSS)*/
+h1, h2, h3, h4, h5 {
+  background: green;
+}
+/*Div o klasie black i white na kolor szary*/
+div.black, div.white{
+  background: rgb(55, 55, 55);
+}
+/*Wszystkie divy o klasie "important"
+(uważaj żeby nie zmienić koloru tła paragrafom o tej samej klasie)
+na kolor zielony*/
+div[class="important"] {
+  background: green;
+}
+/*Wszystkie elementy które znajdują się w wszystkich divach na kolor niebieski*/
