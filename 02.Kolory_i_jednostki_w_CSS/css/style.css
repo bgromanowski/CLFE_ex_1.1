@@ -1,0 +1,42 @@
+/*
+#span1 {
+  color: red;
+}
+
+#span2 {
+  color: blue;
+}
+*/
+
+#sred{
+  color: #cc0f0f;
+}
+#sblue {
+  color: blue;
+}
+#sgreen {
+  color: rgb(28, 164, 16);
+}
+
+div {
+  background-color: rgba(199, 44, 188, 0.25);
+}
+
+.div {
+  background-color: hsla(243, 85%, 50%, 0.7);
+  font-size: 2em;
+}
+
+#div1 {
+  width: 200px;
+  background-color: #389d7c;
+}
+
+#p1 {
+  width: 50%;
+}
+
+#p2 {
+  width: 30%;
+  font-size: 1em;
+}
