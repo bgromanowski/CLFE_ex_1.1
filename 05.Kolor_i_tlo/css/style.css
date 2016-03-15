@@ -1,0 +1,48 @@
+/*div {
+  background-color: #35af2a;
+  background-color: rgba(53, 175, 42, 0.4);
+}
+*/
+
+/*div {
+  background-color: #35af2a;
+  opacity: .4;
+}*/
+
+.gradientbox {
+  background: rgba(145,205,217,1);
+  background: -moz-linear-gradient(top, rgba(145,205,217,1) 0%, rgba(74,168,189,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(145,205,217,1)), color-stop(100%, rgba(74,168,189,1)));
+  background: -webkit-linear-gradient(top, rgba(145,205,217,1) 0%, rgba(74,168,189,1) 100%);
+  background: -o-linear-gradient(top, rgba(145,205,217,1) 0%, rgba(74,168,189,1) 100%);
+  background: -ms-linear-gradient(top, rgba(145,205,217,1) 0%, rgba(74,168,189,1) 100%);
+  background: linear-gradient(to bottom, rgba(145,205,217,1) 0%, rgba(74,168,189,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#91cdd9', endColorstr='#4aa8bd', GradientType=0 );
+  width: 500px;
+  height: 600px;
+}
+
+.catbox {
+  width: 294px;
+  height: 187px;
+  background-image: url("../images/cat.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.widebox {
+  width: 100%;
+  height: 200px;
+  background-image: url("../images/cat.jpg");
+  background-size: 10% 10%;
+  background-repeat: no-repeat;
+}
+
+.centerbox {
+  width: 500px;
+  height: 500px;
+  background-image: url("../images/cat.jpg");
+  background-size: 294px 187px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
