@@ -1,0 +1,21 @@
+.table1 {
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.t1_head1_row {
+  background-color: blue;
+}
+
+.t1heading {
+  color: white;
+  font-weight: bold;
+}
+
+th {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
