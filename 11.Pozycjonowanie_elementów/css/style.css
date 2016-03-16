@@ -166,3 +166,13 @@ div {
 
     margin: 0 auto;
 }
+
+
+
+/*Cytat*/
+
+blockquote::before {
+  content: "";
+  font-size: 36px;
+  color: #afafaf;
+}

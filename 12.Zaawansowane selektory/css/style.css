@@ -1,0 +1,58 @@
+/*Cz1*/
+.box {
+  width: 400px;
+  height: 300px;
+  border: 2px dotted green;
+  margin: 100px;
+}
+.box:hover {
+  background-color: blue;
+  border-radius: 50%;
+}
+.box:active {
+  background-color: white;
+  box-shadow: 10px 10px 55px 0px rgba(0,0,255,1);
+}
+
+/*Cz2*/
+.button:link {
+  margin: 50px 50px 30px 50px;
+  width: auto;
+  height: 30px;
+  padding: 10px;
+  background-color: yellow;
+  border-radius: 25%;
+  display: inline-block;
+  color: white;
+}
+.button:visited{
+background-color: grey;
+}
+.button:hover {
+background-color: green;
+}
+
+/*Cz3*/
+#navigation li{
+  display: inline-block;
+  width:  75px;
+  background-color: green;
+}
+#navigation li:first-child {
+  border-radius: 10px 0px 0px 10px;
+}
+#navigation li:last-child {
+  border-radius: 00px 10px 10px 00px;
+}
+div#zebra p:nth-child(2n+1) {
+  background-color: grey;
+}
+div#other div:first-of-type {
+  background-color: green;
+}
+div#other div:last-of-type {
+  background-color: blue;
+}
+div#from_end div:nth-of-type(2n+3) {
+  background-color: orange;
+}
